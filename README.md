@@ -1,2 +1,0 @@
-# bitnomic
-bitnomic
